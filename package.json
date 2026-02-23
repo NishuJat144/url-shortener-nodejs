@@ -1,0 +1,13 @@
+{
+  "name": "url-short",
+  "version": "1.0.0",
+  "description": "A simple and fast **URL Shortener Web Application** built using **pure Node.js (without Express)**.\r This project allows users to create custom short links and automatically redirect to the original URL — similar to services like Bitly.",
+  "main": "server.js",
+  "scripts": {
+    "dev" : "node --watch server.js" ,
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
